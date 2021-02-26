@@ -1,0 +1,4 @@
+Primer ejercicio 18 de febrero de 2021 
+Huella Digital 
+CertUtil: El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso.
+483ebb7e0e5b55dda8a126d54c12a75202fdf26cfa09ff8b1508e40e5ae0211c
