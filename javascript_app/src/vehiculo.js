@@ -64,7 +64,7 @@ const vehiculo = {
 }
 
 vehiculo.Acelerar();
-//vehiculo.Encender();
-//vehiculo.Llenar_Combustible();
-//vehiculo.Apagar();
-//vehiculo.distancia_Radiollantas();
+vehiculo.Encender();
+vehiculo.Llenar_Combustible();
+vehiculo.Apagar();
+vehiculo.distancia_Radiollantas();
